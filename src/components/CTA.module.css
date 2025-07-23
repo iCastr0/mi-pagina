@@ -1,0 +1,26 @@
+.ctaSection {
+  background: #fff;
+  padding: 3rem 1rem 2.5rem 1rem;
+  text-align: center;
+}
+
+.cta {
+  display: inline-block;
+  background: #fff;
+  color: #fff;
+  border: 2.5px solid #b22234;
+  border-radius: 30px;
+  padding: 1.1rem 2.7rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s, border 0.2s;
+  box-shadow: 0 2px 12px rgba(255, 255, 255, 0.07);
+  margin: 0 auto;
+}
+
+.cta:hover {
+  background: #b22234;
+  color: #fff;
+  border-color: #fff;
+} 
